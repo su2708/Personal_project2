@@ -10,3 +10,4 @@
 ### Goal
 - LangSmith의 Prompt Library를 참고하여 Prompt Engineering을 수행
 - 외부에 저장된 prompt를 불러와 실행하기
+- 실행한 결과를 지정된 폴더에 txt 파일로 저장하기
